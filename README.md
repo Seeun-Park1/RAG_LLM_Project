@@ -1,1 +1,1 @@
-# rag_llm_project
+# RAG_LLM_project
