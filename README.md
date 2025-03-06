@@ -35,15 +35,6 @@ The goal of this project is to improve **document-based Q&A systems**, making it
 - Answers are presented in **a chat-style interface**.  
 - Users can view **supporting document context** through an expandable section.  
 
----
-
-## ⚙️ Setup Instructions  
-
-### 1️⃣ **Clone the Repository**  
-```bash
-git clone https://github.com/Seeun-Park1/RAG_LLM_Project.git
-cd RAG_LLM_Project
-
 
 
 ```
